@@ -1,0 +1,11 @@
+﻿  GamebyGoats.cpp
+C:\Programs\GamebyGoats\GamebyGoats.cpp(226,60): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Programs\GamebyGoats\GamebyGoats.cpp(246,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Programs\GamebyGoats\GamebyGoats.cpp(278,60): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Programs\GamebyGoats\GamebyGoats.cpp(298,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Programs\GamebyGoats\GamebyGoats.cpp(387,28): warning C4244: 'initializing': conversion from 'std::streamoff' to 'size_t', possible loss of data
+C:\Programs\GamebyGoats\GamebyGoats.cpp(532,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Programs\GamebyGoats\GamebyGoats.cpp(600,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Programs\GamebyGoats\GamebyGoats.cpp(634,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Programs\GamebyGoats\GamebyGoats.cpp(675,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  GamebyGoats.vcxproj -> C:\Programs\GamebyGoats\Debug\GamebyGoats.exe

@@ -1,0 +1,2 @@
+C:\Programs\GamebyGoats\Debug\GamebyGoats.exe
+C:\Programs\GamebyGoats\Debug\GamebyGoats.pdb
